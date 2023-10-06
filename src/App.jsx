@@ -6,12 +6,12 @@ import MainGame from "./Components'/MainGame/MainGame";
 
 function App() {
 
-const [game,setGame]= useState(true);
+const [game,setGame]= useState(false);
 
 const toggle=()=>{
 
   setGame((prev)=>!prev)
-  console.log("huday")
+  
 }
   return (
    <div>

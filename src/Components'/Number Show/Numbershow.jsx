@@ -1,10 +1,10 @@
 import React from 'react';
 import "./Numbershow.css"
 
-const Numbershow = () => {
+const Numbershow = ({score}) => {
     return (
         <div className='scorecotainer'>
-            <h1>0</h1>
+            <h1>{score}</h1>
             <p>Total Score</p>
             
         </div>

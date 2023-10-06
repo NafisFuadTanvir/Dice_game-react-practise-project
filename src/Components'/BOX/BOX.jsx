@@ -1,10 +1,10 @@
 import "./BOX.css"
 
-const BOX = (props) => {
+const BOX = ({value}) => {
     return (
         <div className="box">
             
-           {props.value}
+           {value}
             
         </div>
     );

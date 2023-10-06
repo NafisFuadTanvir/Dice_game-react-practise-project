@@ -2,6 +2,7 @@
 
     display: flex;
     gap: 24px;
+    cursor: pointer;
    
 }
 
@@ -9,4 +10,8 @@
 
     font-size: 24px;
     font-weight: 700;
+}
+p{
+    font-size: 24px;
+    font-weight: 600;
 }
