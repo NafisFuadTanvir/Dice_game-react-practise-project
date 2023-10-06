@@ -1,0 +1,17 @@
+.box{
+    height: 72px;
+    width: 72px;
+    border: 1px solid black;
+    display: grid;
+    place-items: center;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.black{
+
+    background-color: black;
+}
+.white{
+    background-color: white;
+}

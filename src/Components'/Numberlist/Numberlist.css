@@ -1,0 +1,12 @@
+.flex{
+
+    display: flex;
+    gap: 24px;
+   
+}
+
+.text{
+
+    font-size: 24px;
+    font-weight: 700;
+}
